@@ -1,0 +1,22 @@
+# Node.js dependencies
+functions/node_modules/
+
+# Environment variables (never commit secrets)
+.env
+.env.local
+.env.development
+.env.production
+.env.example
+
+# Firebase local settings and emulators
+.firebase/
+.firebaserc.local
+firebase-debug.log
+
+# VS Code settings
+.vscode/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
