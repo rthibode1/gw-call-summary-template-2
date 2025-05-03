@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "dev": "goodwood-gw-call-summary-dev",
+    "prod": "goodwood-gw-call-summary"
+  }
+}
